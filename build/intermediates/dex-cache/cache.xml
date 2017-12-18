@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Android\project\SToS\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="D:\Android\project\SToS\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_861c8f007ab28100d87e3ed795eb75a288296d96\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\project\SToS\app\src\main\libs\base_java.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="dc206d0162e1d84b0555cbc955e0a955d6bde663">
+        <dex dex="D:\Android\project\SToS\app\build\intermediates\transforms\dex\debug\folders\1000\2\base_java_47faa538599c80b8f0ff165f488b288bb81d239f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\project\SToS\app\src\main\libs\Java-WebSocket-1.3.1-SNAPSHOT.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c16847bc8c4f0268d91f0efa730e9c614aa546a1">
+        <dex dex="D:\Android\project\SToS\app\build\intermediates\transforms\dex\debug\folders\1000\2\Java-WebSocket-1.3.1-SNAPSHOT_a4b4574765ec02ecda36670b45c903facb85ef3c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\project\SToS\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="67fd8e9732b1918cfdfedb18c8e10e5f14ddfe67">
+        <dex dex="D:\Android\project\SToS\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_5078d9c9cf769cdeeb1aedd6f19ac0d7aa77d519\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\project\SToS\app\src\main\libs\libjingle_peerconnection.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="97b118cd04954177eff91e5e056f8d1bd3e1dacc">
+        <dex dex="D:\Android\project\SToS\app\build\intermediates\transforms\dex\debug\folders\1000\2\libjingle_peerconnection_52ffab49a06993ff2529418553e2c89124926a18\classes.dex" />
+    </item>
+
+</items>

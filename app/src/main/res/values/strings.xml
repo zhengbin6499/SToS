@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SToS</string>
+    <string name="button_send">Video chat</string>
+
+    <string name="List_View">ListView演示</string>
+    <string name="commonControl_List">常用Android演示</string>
+</resources>
